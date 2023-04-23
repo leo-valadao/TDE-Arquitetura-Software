@@ -1,3 +1,4 @@
+package solucaoPadraoProxy;
 public interface InterfaceServidorVideo {
 
     public void conectar(Integer idServidor) throws Exception;

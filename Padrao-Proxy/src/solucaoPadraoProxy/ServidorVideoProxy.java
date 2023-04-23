@@ -1,3 +1,4 @@
+package solucaoPadraoProxy;
 public class ServidorVideoProxy implements InterfaceServidorVideo {
 
     // OBJETOS

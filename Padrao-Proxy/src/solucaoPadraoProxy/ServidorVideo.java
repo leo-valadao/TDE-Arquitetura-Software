@@ -1,3 +1,4 @@
+package solucaoPadraoProxy;
 public class ServidorVideo implements InterfaceServidorVideo {
 
     @Override
